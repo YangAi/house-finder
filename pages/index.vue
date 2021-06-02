@@ -78,8 +78,8 @@
     <v-container class="tw-relative tw-bg-gray-50">
       <div class="tw-flex">
         <v-tabs v-model="resultTab" background-color="transparent">
-          <v-tab key="unit">房源</v-tab>
           <v-tab key="project">小区</v-tab>
+          <v-tab key="unit">房源</v-tab>
         </v-tabs>
         <v-spacer />
         <v-btn text small>价格排序</v-btn>
@@ -87,10 +87,6 @@
         <v-btn text small>数量排序</v-btn>
       </div>
       <v-tabs-items v-model="resultTab" class="tw-bg-transparent">
-        <v-tab-item key="unit" class="tw-bg-transparent">
-          <s-unit-ershou-card class="tw-my-2" />
-          <s-unit-ershou-card />
-        </v-tab-item>
         <v-tab-item key="project">
           <s-project-ershou-card
             v-for="(project, index) of projects"
@@ -98,6 +94,10 @@
             :project="project"
             class="tw-my-2"
           />
+        </v-tab-item>
+        <v-tab-item key="unit" class="tw-bg-transparent">
+          <s-unit-ershou-card class="tw-my-2" />
+          <s-unit-ershou-card />
         </v-tab-item>
       </v-tabs-items>
     </v-container>
