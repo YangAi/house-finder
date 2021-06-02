@@ -1,0 +1,2261 @@
+[
+  {
+    "id": "977",
+    "text": "闵行",
+    "available": true,
+    "children": [
+      {
+        "id": "",
+        "text": "不限",
+        "url": "r977"
+      },
+      {
+        "id": "998",
+        "text": "华漕",
+        "url": "r977-r998",
+        "available": true,
+        "letter": "H"
+      },
+      {
+        "id": "999",
+        "text": "金虹桥",
+        "url": "r977-r999",
+        "available": true,
+        "letter": "J"
+      },
+      {
+        "id": "1001",
+        "text": "梅陇春申",
+        "url": "r977-r1001",
+        "available": true,
+        "letter": "M"
+      },
+      {
+        "id": "1002",
+        "text": "马桥",
+        "url": "r977-r1002",
+        "available": true,
+        "letter": "M"
+      },
+      {
+        "id": "1004",
+        "text": "七宝",
+        "url": "r977-r1004",
+        "available": true,
+        "letter": "Q"
+      },
+      {
+        "id": "1006",
+        "text": "吴泾",
+        "url": "r977-r1006",
+        "available": true,
+        "letter": "W"
+      },
+      {
+        "id": "1007",
+        "text": "莘庄",
+        "url": "r977-r1007",
+        "available": true,
+        "letter": "S"
+      },
+      {
+        "id": "1008",
+        "text": "颛桥",
+        "url": "r977-r1008",
+        "available": true,
+        "letter": "Z"
+      },
+      {
+        "id": "1971",
+        "text": "浦江镇",
+        "url": "r977-r1971",
+        "available": true,
+        "letter": "P"
+      },
+      {
+        "id": "5027",
+        "text": "航华",
+        "url": "r977-r5027",
+        "available": true,
+        "letter": "H"
+      },
+      {
+        "id": "5028",
+        "text": "金汇龙柏",
+        "url": "r977-r5028",
+        "available": true,
+        "letter": "J"
+      },
+      {
+        "id": "5029",
+        "text": "静安新城",
+        "url": "r977-r5029",
+        "available": true,
+        "letter": "J"
+      },
+      {
+        "id": "5246",
+        "text": "古美罗阳",
+        "url": "r977-r5246",
+        "available": true,
+        "letter": "G"
+      },
+      {
+        "id": "12247",
+        "text": "江川",
+        "url": "r977-r12247",
+        "available": true,
+        "letter": "J"
+      },
+      {
+        "id": "709949",
+        "text": "北桥",
+        "url": "r977-r709949",
+        "available": false,
+        "letter": "B"
+      },
+      {
+        "id": "709950",
+        "text": "漕宝路",
+        "url": "r977-r709950",
+        "available": false,
+        "letter": "C"
+      },
+      {
+        "id": "709951",
+        "text": "老闵行",
+        "url": "r977-r709951",
+        "available": false,
+        "letter": "L"
+      },
+      {
+        "id": "709952",
+        "text": "七莘路",
+        "url": "r977-r709952",
+        "available": false,
+        "letter": "Q"
+      },
+      {
+        "id": "709953",
+        "text": "诸翟",
+        "url": "r977-r709953",
+        "available": false,
+        "letter": "Z"
+      }
+    ],
+    "letter": "M"
+  },
+  {
+    "id": "978",
+    "text": "徐汇",
+    "available": true,
+    "children": [
+      {
+        "id": "",
+        "text": "不限",
+        "url": "r978"
+      },
+      {
+        "id": "2443",
+        "text": "龙华",
+        "url": "r978-r2443",
+        "available": true,
+        "letter": "L"
+      },
+      {
+        "id": "2444",
+        "text": "长桥",
+        "url": "r978-r2444",
+        "available": true,
+        "letter": "C"
+      },
+      {
+        "id": "5051",
+        "text": "华东理工",
+        "url": "r978-r5051",
+        "available": true,
+        "letter": "H"
+      },
+      {
+        "id": "5052",
+        "text": "华泾",
+        "url": "r978-r5052",
+        "available": true,
+        "letter": "H"
+      },
+      {
+        "id": "5053",
+        "text": "建国西路",
+        "url": "r978-r5053",
+        "available": true,
+        "letter": "J"
+      },
+      {
+        "id": "5054",
+        "text": "康健",
+        "url": "r978-r5054",
+        "available": true,
+        "letter": "K"
+      },
+      {
+        "id": "5056",
+        "text": "田林",
+        "url": "r978-r5056",
+        "available": true,
+        "letter": "T"
+      },
+      {
+        "id": "5057",
+        "text": "万体馆",
+        "url": "r978-r5057",
+        "available": true,
+        "letter": "W"
+      },
+      {
+        "id": "5059",
+        "text": "徐汇滨江",
+        "url": "r978-r5059",
+        "available": true,
+        "letter": "X"
+      },
+      {
+        "id": "5060",
+        "text": "徐家汇",
+        "url": "r978-r5060",
+        "available": true,
+        "letter": "X"
+      },
+      {
+        "id": "5061",
+        "text": "植物园",
+        "url": "r978-r5061",
+        "available": true,
+        "letter": "Z"
+      },
+      {
+        "id": "5245",
+        "text": "南站",
+        "url": "r978-r5245",
+        "available": true,
+        "letter": "N"
+      },
+      {
+        "id": "12254",
+        "text": "大木桥",
+        "url": "r978-r12254",
+        "available": true,
+        "letter": "D"
+      },
+      {
+        "id": "12255",
+        "text": "淮海北",
+        "url": "r978-r12255",
+        "available": true,
+        "letter": "H"
+      },
+      {
+        "id": "12256",
+        "text": "淮海南",
+        "url": "r978-r12256",
+        "available": true,
+        "letter": "H"
+      },
+      {
+        "id": "709958",
+        "text": "漕河泾",
+        "url": "r978-r709958",
+        "available": false,
+        "letter": "C"
+      },
+      {
+        "id": "709959",
+        "text": "复兴中路",
+        "url": "r978-r709959",
+        "available": false,
+        "letter": "F"
+      },
+      {
+        "id": "709960",
+        "text": "湖南路",
+        "url": "r978-r709960",
+        "available": true,
+        "letter": "H"
+      },
+      {
+        "id": "709961",
+        "text": "衡山路",
+        "url": "r978-r709961",
+        "available": false,
+        "letter": "H"
+      },
+      {
+        "id": "709962",
+        "text": "淮海西路",
+        "url": "r978-r709962",
+        "available": false,
+        "letter": "H"
+      },
+      {
+        "id": "709963",
+        "text": "凌云路",
+        "url": "r978-r709963",
+        "available": false,
+        "letter": "L"
+      },
+      {
+        "id": "709964",
+        "text": "肇嘉浜路",
+        "url": "r978-r709964",
+        "available": false,
+        "letter": "Z"
+      }
+    ],
+    "letter": "X"
+  },
+  {
+    "id": "979",
+    "text": "长宁",
+    "available": true,
+    "children": [
+      {
+        "id": "",
+        "text": "不限",
+        "url": "r979"
+      },
+      {
+        "id": "2446",
+        "text": "北新泾",
+        "url": "r979-r2446",
+        "available": true,
+        "letter": "B"
+      },
+      {
+        "id": "2448",
+        "text": "天山",
+        "url": "r979-r2448",
+        "available": true,
+        "letter": "T"
+      },
+      {
+        "id": "5006",
+        "text": "古北",
+        "url": "r979-r5006",
+        "available": true,
+        "letter": "G"
+      },
+      {
+        "id": "5007",
+        "text": "虹桥",
+        "url": "r979-r5007",
+        "available": true,
+        "letter": "H"
+      },
+      {
+        "id": "5008",
+        "text": "西郊",
+        "url": "r979-r5008",
+        "available": true,
+        "letter": "X"
+      },
+      {
+        "id": "5009",
+        "text": "仙霞",
+        "url": "r979-r5009",
+        "available": true,
+        "letter": "X"
+      },
+      {
+        "id": "5010",
+        "text": "新华路",
+        "url": "r979-r5010",
+        "available": true,
+        "letter": "X"
+      },
+      {
+        "id": "5011",
+        "text": "镇宁路",
+        "url": "r979-r5011",
+        "available": true,
+        "letter": "Z"
+      },
+      {
+        "id": "5012",
+        "text": "中山公园",
+        "url": "r979-r5012",
+        "available": true,
+        "letter": "Z"
+      },
+      {
+        "id": "710007",
+        "text": "动物园",
+        "url": "r979-r710007",
+        "available": false,
+        "letter": "D"
+      },
+      {
+        "id": "710008",
+        "text": "江苏路地铁",
+        "url": "r979-r710008",
+        "available": false,
+        "letter": "J"
+      },
+      {
+        "id": "710009",
+        "text": "周家桥",
+        "url": "r979-r710009",
+        "available": false,
+        "letter": "Z"
+      }
+    ],
+    "letter": "C"
+  },
+  {
+    "id": "980",
+    "text": "静安",
+    "available": true,
+    "children": [
+      {
+        "id": "",
+        "text": "不限",
+        "url": "r980"
+      },
+      {
+        "id": "1057",
+        "text": "不夜城",
+        "url": "r980-r1057",
+        "available": true,
+        "letter": "B"
+      },
+      {
+        "id": "1058",
+        "text": "大宁",
+        "url": "r980-r1058",
+        "available": true,
+        "letter": "D"
+      },
+      {
+        "id": "1059",
+        "text": "彭浦",
+        "url": "r980-r1059",
+        "available": true,
+        "letter": "P"
+      },
+      {
+        "id": "1974",
+        "text": "西藏北路",
+        "url": "r980-r1974",
+        "available": true,
+        "letter": "X"
+      },
+      {
+        "id": "5021",
+        "text": "曹家渡",
+        "url": "r980-r5021",
+        "available": true,
+        "letter": "C"
+      },
+      {
+        "id": "5022",
+        "text": "江宁路",
+        "url": "r980-r5022",
+        "available": true,
+        "letter": "J"
+      },
+      {
+        "id": "5023",
+        "text": "静安寺",
+        "url": "r980-r5023",
+        "available": true,
+        "letter": "J"
+      },
+      {
+        "id": "5024",
+        "text": "南京西路",
+        "url": "r980-r5024",
+        "available": true,
+        "letter": "N"
+      },
+      {
+        "id": "5065",
+        "text": "阳城",
+        "url": "r980-r5065",
+        "available": true,
+        "letter": "Y"
+      },
+      {
+        "id": "5066",
+        "text": "永和",
+        "url": "r980-r5066",
+        "available": true,
+        "letter": "Y"
+      },
+      {
+        "id": "5067",
+        "text": "闸北公园",
+        "url": "r980-r5067",
+        "available": true,
+        "letter": "Z"
+      },
+      {
+        "id": "708056",
+        "text": "北郊站",
+        "url": "r980-r708056",
+        "available": false,
+        "letter": "B"
+      },
+      {
+        "id": "708057",
+        "text": "大悦城",
+        "url": "r980-r708057",
+        "available": true,
+        "letter": "D"
+      },
+      {
+        "id": "708058",
+        "text": "新客站",
+        "url": "r980-r708058",
+        "available": true,
+        "letter": "X"
+      },
+      {
+        "id": "709984",
+        "text": "北京西路",
+        "url": "r980-r709984",
+        "available": false,
+        "letter": "B"
+      },
+      {
+        "id": "709985",
+        "text": "宝山路",
+        "url": "r980-r709985",
+        "available": false,
+        "letter": "B"
+      },
+      {
+        "id": "709986",
+        "text": "场中路",
+        "url": "r980-r709986",
+        "available": false,
+        "letter": "C"
+      },
+      {
+        "id": "709987",
+        "text": "天目西路",
+        "url": "r980-r709987",
+        "available": false,
+        "letter": "T"
+      },
+      {
+        "id": "709988",
+        "text": "汶水路",
+        "url": "r980-r709988",
+        "available": true,
+        "letter": "W"
+      },
+      {
+        "id": "709989",
+        "text": "西康路",
+        "url": "r980-r709989",
+        "available": false,
+        "letter": "X"
+      },
+      {
+        "id": "709990",
+        "text": "新闸路",
+        "url": "r980-r709990",
+        "available": false,
+        "letter": "X"
+      },
+      {
+        "id": "709991",
+        "text": "延长路",
+        "url": "r980-r709991",
+        "available": true,
+        "letter": "Y"
+      },
+      {
+        "id": "709992",
+        "text": "芷江西路",
+        "url": "r980-r709992",
+        "available": false,
+        "letter": "Z"
+      }
+    ],
+    "letter": "J"
+  },
+  {
+    "id": "982",
+    "text": "虹口",
+    "available": true,
+    "children": [
+      {
+        "id": "",
+        "text": "不限",
+        "url": "r982"
+      },
+      {
+        "id": "1035",
+        "text": "北外滩",
+        "url": "r982-r1035",
+        "available": true,
+        "letter": "B"
+      },
+      {
+        "id": "1038",
+        "text": "临平",
+        "url": "r982-r1038",
+        "available": true,
+        "letter": "L"
+      },
+      {
+        "id": "1039",
+        "text": "江湾凉城",
+        "url": "r982-r1039",
+        "available": true,
+        "letter": "L"
+      },
+      {
+        "id": "1040",
+        "text": "曲阳",
+        "url": "r982-r1040",
+        "available": true,
+        "letter": "Q"
+      },
+      {
+        "id": "1041",
+        "text": "四川北路",
+        "url": "r982-r1041",
+        "available": true,
+        "letter": "S"
+      },
+      {
+        "id": "12241",
+        "text": "四平路",
+        "url": "r982-r12241",
+        "available": true,
+        "letter": "S"
+      },
+      {
+        "id": "12242",
+        "text": "广中",
+        "url": "r982-r12242",
+        "available": true,
+        "letter": "G"
+      },
+      {
+        "id": "710002",
+        "text": "大柏树",
+        "url": "r982-r710002",
+        "available": false,
+        "letter": "D"
+      },
+      {
+        "id": "710003",
+        "text": "海宁路",
+        "url": "r982-r710003",
+        "available": false,
+        "letter": "H"
+      },
+      {
+        "id": "710004",
+        "text": "和平公园",
+        "url": "r982-r710004",
+        "available": false,
+        "letter": "H"
+      },
+      {
+        "id": "710005",
+        "text": "鲁迅公园",
+        "url": "r982-r710005",
+        "available": false,
+        "letter": "L"
+      },
+      {
+        "id": "710006",
+        "text": "提篮桥",
+        "url": "r982-r710006",
+        "available": false,
+        "letter": "T"
+      }
+    ],
+    "letter": "H"
+  },
+  {
+    "id": "983",
+    "text": "黄浦",
+    "available": true,
+    "children": [
+      {
+        "id": "",
+        "text": "不限",
+        "url": "r983"
+      },
+      {
+        "id": "1032",
+        "text": "打浦桥",
+        "url": "r983-r1032",
+        "available": true,
+        "letter": "D"
+      },
+      {
+        "id": "1033",
+        "text": "淮海中路",
+        "url": "r983-r1033",
+        "available": true,
+        "letter": "H"
+      },
+      {
+        "id": "1034",
+        "text": "新天地",
+        "url": "r983-r1034",
+        "available": true,
+        "letter": "X"
+      },
+      {
+        "id": "1042",
+        "text": "董家渡",
+        "url": "r983-r1042",
+        "available": true,
+        "letter": "D"
+      },
+      {
+        "id": "1043",
+        "text": "老西门",
+        "url": "r983-r1043",
+        "available": true,
+        "letter": "L"
+      },
+      {
+        "id": "1044",
+        "text": "南京东路",
+        "url": "r983-r1044",
+        "available": true,
+        "letter": "N"
+      },
+      {
+        "id": "1046",
+        "text": "人民广场",
+        "url": "r983-r1046",
+        "available": true,
+        "letter": "R"
+      },
+      {
+        "id": "1048",
+        "text": "豫园",
+        "url": "r983-r1048",
+        "available": true,
+        "letter": "Y"
+      },
+      {
+        "id": "2037",
+        "text": "世博滨江",
+        "url": "r983-r2037",
+        "available": true,
+        "letter": "S"
+      },
+      {
+        "id": "2043",
+        "text": "黄浦滨江",
+        "url": "r983-r2043",
+        "available": true,
+        "letter": "H"
+      },
+      {
+        "id": "5016",
+        "text": "蓬莱公园",
+        "url": "r983-r5016",
+        "available": true,
+        "letter": "P"
+      },
+      {
+        "id": "5025",
+        "text": "五里桥",
+        "url": "r983-r5025",
+        "available": true,
+        "letter": "W"
+      },
+      {
+        "id": "5058",
+        "text": "斜土路",
+        "url": "r983-r5058",
+        "available": true,
+        "letter": "X"
+      },
+      {
+        "id": "12243",
+        "text": "北苏州河",
+        "url": "r983-r12243",
+        "available": true,
+        "letter": "B"
+      },
+      {
+        "id": "12244",
+        "text": "陕西路",
+        "url": "r983-r12244",
+        "available": true,
+        "letter": "S"
+      },
+      {
+        "id": "12245",
+        "text": "外滩",
+        "url": "r983-r12245",
+        "available": true,
+        "letter": "W"
+      },
+      {
+        "id": "710010",
+        "text": "半淞园路",
+        "url": "r983-r710010",
+        "available": false,
+        "letter": "B"
+      },
+      {
+        "id": "710011",
+        "text": "复兴公园",
+        "url": "r983-r710011",
+        "available": false,
+        "letter": "F"
+      },
+      {
+        "id": "710012",
+        "text": "鲁班路",
+        "url": "r983-r710012",
+        "available": false,
+        "letter": "L"
+      },
+      {
+        "id": "710013",
+        "text": "南浦大桥",
+        "url": "r983-r710013",
+        "available": false,
+        "letter": "N"
+      },
+      {
+        "id": "710014",
+        "text": "西藏南路",
+        "url": "r983-r710014",
+        "available": false,
+        "letter": "X"
+      }
+    ],
+    "letter": "H"
+  },
+  {
+    "id": "984",
+    "text": "杨浦",
+    "available": true,
+    "children": [
+      {
+        "id": "",
+        "text": "不限",
+        "url": "r984"
+      },
+      {
+        "id": "1049",
+        "text": "鞍山",
+        "url": "r984-r1049",
+        "available": true,
+        "letter": "A"
+      },
+      {
+        "id": "1050",
+        "text": "东外滩",
+        "url": "r984-r1050",
+        "available": true,
+        "letter": "D"
+      },
+      {
+        "id": "1051",
+        "text": "黄兴公园",
+        "url": "r984-r1051",
+        "available": true,
+        "letter": "H"
+      },
+      {
+        "id": "1052",
+        "text": "控江",
+        "url": "r984-r1052",
+        "available": true,
+        "letter": "K"
+      },
+      {
+        "id": "1053",
+        "text": "五角场",
+        "url": "r984-r1053",
+        "available": true,
+        "letter": "W"
+      },
+      {
+        "id": "1054",
+        "text": "新江湾城",
+        "url": "r984-r1054",
+        "available": true,
+        "letter": "X"
+      },
+      {
+        "id": "1056",
+        "text": "中原",
+        "url": "r984-r1056",
+        "available": true,
+        "letter": "Z"
+      },
+      {
+        "id": "12257",
+        "text": "江浦路",
+        "url": "r984-r12257",
+        "available": true,
+        "letter": "J"
+      },
+      {
+        "id": "709996",
+        "text": "长阳路",
+        "url": "r984-r709996",
+        "available": false,
+        "letter": "C"
+      },
+      {
+        "id": "709997",
+        "text": "平凉路",
+        "url": "r984-r709997",
+        "available": false,
+        "letter": "P"
+      },
+      {
+        "id": "709998",
+        "text": "周家嘴路",
+        "url": "r984-r709998",
+        "available": true,
+        "letter": "Z"
+      },
+      {
+        "id": "709999",
+        "text": "杨浦大桥",
+        "url": "r984-r709999",
+        "available": false,
+        "letter": "Y"
+      },
+      {
+        "id": "710000",
+        "text": "杨浦公园/延吉",
+        "url": "r984-r710000",
+        "available": false,
+        "letter": "Y"
+      },
+      {
+        "id": "710001",
+        "text": "运光/复旦",
+        "url": "r984-r710001",
+        "available": false,
+        "letter": "Y"
+      }
+    ],
+    "letter": "Y"
+  },
+  {
+    "id": "986",
+    "text": "普陀",
+    "available": true,
+    "children": [
+      {
+        "id": "",
+        "text": "不限",
+        "url": "r986"
+      },
+      {
+        "id": "1060",
+        "text": "长风",
+        "url": "r986-r1060",
+        "available": true,
+        "letter": "C"
+      },
+      {
+        "id": "1061",
+        "text": "长征",
+        "url": "r986-r1061",
+        "available": true,
+        "letter": "C"
+      },
+      {
+        "id": "1065",
+        "text": "光新",
+        "url": "r986-r1065",
+        "available": true,
+        "letter": "G"
+      },
+      {
+        "id": "1066",
+        "text": "桃浦",
+        "url": "r986-r1066",
+        "available": true,
+        "letter": "T"
+      },
+      {
+        "id": "1067",
+        "text": "武宁",
+        "url": "r986-r1067",
+        "available": true,
+        "letter": "W"
+      },
+      {
+        "id": "1068",
+        "text": "万里",
+        "url": "r986-r1068",
+        "available": true,
+        "letter": "W"
+      },
+      {
+        "id": "1071",
+        "text": "真如",
+        "url": "r986-r1071",
+        "available": true,
+        "letter": "Z"
+      },
+      {
+        "id": "1975",
+        "text": "长寿路",
+        "url": "r986-r1975",
+        "available": true,
+        "letter": "C"
+      },
+      {
+        "id": "1977",
+        "text": "曹杨",
+        "url": "r986-r1977",
+        "available": true,
+        "letter": "C"
+      },
+      {
+        "id": "5042",
+        "text": "甘泉宜川",
+        "url": "r986-r5042",
+        "available": true,
+        "letter": "G"
+      },
+      {
+        "id": "5043",
+        "text": "真光",
+        "url": "r986-r5043",
+        "available": true,
+        "letter": "Z"
+      },
+      {
+        "id": "5044",
+        "text": "中远两湾城",
+        "url": "r986-r5044",
+        "available": true,
+        "letter": "Z"
+      },
+      {
+        "id": "709993",
+        "text": "金沙江路",
+        "url": "r986-r709993",
+        "available": false,
+        "letter": "J"
+      },
+      {
+        "id": "709994",
+        "text": "李子园",
+        "url": "r986-r709994",
+        "available": false,
+        "letter": "L"
+      },
+      {
+        "id": "709995",
+        "text": "华东师大",
+        "url": "r986-r709995",
+        "available": false,
+        "letter": "H"
+      }
+    ],
+    "letter": "P"
+  },
+  {
+    "id": "987",
+    "text": "嘉定",
+    "available": true,
+    "children": [
+      {
+        "id": "",
+        "text": "不限",
+        "url": "r987"
+      },
+      {
+        "id": "1074",
+        "text": "丰庄",
+        "url": "r987-r1074",
+        "available": true,
+        "letter": "F"
+      },
+      {
+        "id": "1075",
+        "text": "江桥",
+        "url": "r987-r1075",
+        "available": true,
+        "letter": "J"
+      },
+      {
+        "id": "1076",
+        "text": "嘉定新城",
+        "url": "r987-r1076",
+        "available": true,
+        "letter": "J"
+      },
+      {
+        "id": "1077",
+        "text": "南翔",
+        "url": "r987-r1077",
+        "available": true,
+        "letter": "N"
+      },
+      {
+        "id": "1978",
+        "text": "马陆",
+        "url": "r987-r1978",
+        "available": true,
+        "letter": "M"
+      },
+      {
+        "id": "5017",
+        "text": "安亭",
+        "url": "r987-r5017",
+        "available": true,
+        "letter": "A"
+      },
+      {
+        "id": "5018",
+        "text": "嘉定城区",
+        "url": "r987-r5018",
+        "available": true,
+        "letter": "J"
+      },
+      {
+        "id": "12246",
+        "text": "嘉定北部",
+        "url": "r987-r12246",
+        "available": true,
+        "letter": "J"
+      },
+      {
+        "id": "709972",
+        "text": "曹王",
+        "url": "r987-r709972",
+        "available": false,
+        "letter": "C"
+      },
+      {
+        "id": "709973",
+        "text": "方泰镇",
+        "url": "r987-r709973",
+        "available": false,
+        "letter": "F"
+      },
+      {
+        "id": "709974",
+        "text": "封浜",
+        "url": "r987-r709974",
+        "available": true,
+        "letter": "F"
+      },
+      {
+        "id": "709975",
+        "text": "黄渡",
+        "url": "r987-r709975",
+        "available": false,
+        "letter": "H"
+      },
+      {
+        "id": "709976",
+        "text": "华亭",
+        "url": "r987-r709976",
+        "available": false,
+        "letter": "H"
+      },
+      {
+        "id": "709977",
+        "text": "菊园新区",
+        "url": "r987-r709977",
+        "available": false,
+        "letter": "J"
+      },
+      {
+        "id": "709978",
+        "text": "娄塘",
+        "url": "r987-r709978",
+        "available": false,
+        "letter": "L"
+      },
+      {
+        "id": "709979",
+        "text": "唐行",
+        "url": "r987-r709979",
+        "available": false,
+        "letter": "T"
+      },
+      {
+        "id": "709980",
+        "text": "外冈",
+        "url": "r987-r709980",
+        "available": false,
+        "letter": "W"
+      },
+      {
+        "id": "709981",
+        "text": "徐行",
+        "url": "r987-r709981",
+        "available": false,
+        "letter": "X"
+      },
+      {
+        "id": "709982",
+        "text": "真新新村",
+        "url": "r987-r709982",
+        "available": false,
+        "letter": "Z"
+      },
+      {
+        "id": "709983",
+        "text": "朱桥",
+        "url": "r987-r709983",
+        "available": false,
+        "letter": "Z"
+      }
+    ],
+    "letter": "J"
+  },
+  {
+    "id": "988",
+    "text": "宝山",
+    "available": true,
+    "children": [
+      {
+        "id": "",
+        "text": "不限",
+        "url": "r988"
+      },
+      {
+        "id": "1080",
+        "text": "大华",
+        "url": "r988-r1080",
+        "available": true,
+        "letter": "D"
+      },
+      {
+        "id": "1081",
+        "text": "大场",
+        "url": "r988-r1081",
+        "available": true,
+        "letter": "D"
+      },
+      {
+        "id": "1082",
+        "text": "顾村",
+        "url": "r988-r1082",
+        "available": true,
+        "letter": "G"
+      },
+      {
+        "id": "1083",
+        "text": "共康",
+        "url": "r988-r1083",
+        "available": true,
+        "letter": "G"
+      },
+      {
+        "id": "1084",
+        "text": "罗店",
+        "url": "r988-r1084",
+        "available": true,
+        "letter": "L"
+      },
+      {
+        "id": "1085",
+        "text": "罗泾",
+        "url": "r988-r1085",
+        "available": true,
+        "letter": "L"
+      },
+      {
+        "id": "1086",
+        "text": "上大",
+        "url": "r988-r1086",
+        "available": true,
+        "letter": "S"
+      },
+      {
+        "id": "1088",
+        "text": "月浦",
+        "url": "r988-r1088",
+        "available": true,
+        "letter": "Y"
+      },
+      {
+        "id": "1089",
+        "text": "杨行",
+        "url": "r988-r1089",
+        "available": true,
+        "letter": "Y"
+      },
+      {
+        "id": "5001",
+        "text": "高境",
+        "url": "r988-r5001",
+        "available": true,
+        "letter": "G"
+      },
+      {
+        "id": "5002",
+        "text": "共富",
+        "url": "r988-r5002",
+        "available": true,
+        "letter": "G"
+      },
+      {
+        "id": "5003",
+        "text": "淞南",
+        "url": "r988-r5003",
+        "available": true,
+        "letter": "S"
+      },
+      {
+        "id": "5004",
+        "text": "通河",
+        "url": "r988-r5004",
+        "available": true,
+        "letter": "T"
+      },
+      {
+        "id": "5247",
+        "text": "淞宝",
+        "url": "r988-r5247",
+        "available": true,
+        "letter": "S"
+      },
+      {
+        "id": "5248",
+        "text": "张庙",
+        "url": "r988-r5248",
+        "available": true,
+        "letter": "Z"
+      },
+      {
+        "id": "12240",
+        "text": "泗塘",
+        "url": "r988-r12240",
+        "available": true,
+        "letter": "S"
+      },
+      {
+        "id": "709954",
+        "text": "刘行",
+        "url": "r988-r709954",
+        "available": false,
+        "letter": "L"
+      },
+      {
+        "id": "709955",
+        "text": "罗南",
+        "url": "r988-r709955",
+        "available": false,
+        "letter": "L"
+      },
+      {
+        "id": "709956",
+        "text": "水产路",
+        "url": "r988-r709956",
+        "available": false,
+        "letter": "S"
+      },
+      {
+        "id": "709957",
+        "text": "友谊路",
+        "url": "r988-r709957",
+        "available": false,
+        "letter": "Y"
+      }
+    ],
+    "letter": "B"
+  },
+  {
+    "id": "989",
+    "text": "青浦",
+    "available": true,
+    "children": [
+      {
+        "id": "",
+        "text": "不限",
+        "url": "r989"
+      },
+      {
+        "id": "1092",
+        "text": "徐泾",
+        "url": "r989-r1092",
+        "available": true,
+        "letter": "X"
+      },
+      {
+        "id": "1093",
+        "text": "朱家角",
+        "url": "r989-r1093",
+        "available": true,
+        "letter": "Z"
+      },
+      {
+        "id": "1094",
+        "text": "赵巷",
+        "url": "r989-r1094",
+        "available": true,
+        "letter": "Z"
+      },
+      {
+        "id": "1960",
+        "text": "重固",
+        "url": "r989-r1960",
+        "available": true,
+        "letter": "Z"
+      },
+      {
+        "id": "2045",
+        "text": "白鹤",
+        "url": "r989-r2045",
+        "available": true,
+        "letter": "B"
+      },
+      {
+        "id": "5045",
+        "text": "青浦城区",
+        "url": "r989-r5045",
+        "available": true,
+        "letter": "Q"
+      },
+      {
+        "id": "5243",
+        "text": "华新",
+        "url": "r989-r5243",
+        "available": true,
+        "letter": "H"
+      },
+      {
+        "id": "12251",
+        "text": "沪青平",
+        "url": "r989-r12251",
+        "available": true,
+        "letter": "H"
+      },
+      {
+        "id": "703891",
+        "text": "金泽",
+        "url": "r989-r703891",
+        "available": false,
+        "letter": "J"
+      },
+      {
+        "id": "710015",
+        "text": "练塘",
+        "url": "r989-r710015",
+        "available": false,
+        "letter": "L"
+      },
+      {
+        "id": "710016",
+        "text": "青浦工业园区",
+        "url": "r989-r710016",
+        "available": false,
+        "letter": "Q"
+      },
+      {
+        "id": "710017",
+        "text": "青浦新城",
+        "url": "r989-r710017",
+        "available": true,
+        "letter": "Q"
+      },
+      {
+        "id": "710018",
+        "text": "香花桥",
+        "url": "r989-r710018",
+        "available": false,
+        "letter": "X"
+      }
+    ],
+    "letter": "Q"
+  },
+  {
+    "id": "990",
+    "text": "奉贤",
+    "available": true,
+    "children": [
+      {
+        "id": "",
+        "text": "不限",
+        "url": "r990"
+      },
+      {
+        "id": "1096",
+        "text": "奉城",
+        "url": "r990-r1096",
+        "available": true,
+        "letter": "F"
+      },
+      {
+        "id": "1097",
+        "text": "海湾",
+        "url": "r990-r1097",
+        "available": true,
+        "letter": "H"
+      },
+      {
+        "id": "1099",
+        "text": "南桥",
+        "url": "r990-r1099",
+        "available": true,
+        "letter": "N"
+      },
+      {
+        "id": "1101",
+        "text": "庄行",
+        "url": "r990-r1101",
+        "available": true,
+        "letter": "Z"
+      },
+      {
+        "id": "1102",
+        "text": "柘林",
+        "url": "r990-r1102",
+        "available": true,
+        "letter": "Z"
+      },
+      {
+        "id": "2042",
+        "text": "西渡",
+        "url": "r990-r2042",
+        "available": true,
+        "letter": "X"
+      },
+      {
+        "id": "5013",
+        "text": "奉贤其他",
+        "url": "r990-r5013",
+        "available": true,
+        "letter": "F"
+      },
+      {
+        "id": "5014",
+        "text": "海湾旅游区",
+        "url": "r990-r5014",
+        "available": true,
+        "letter": "H"
+      },
+      {
+        "id": "5015",
+        "text": "金汇镇",
+        "url": "r990-r5015",
+        "available": true,
+        "letter": "J"
+      },
+      {
+        "id": "702232",
+        "text": "四团",
+        "url": "r990-r702232",
+        "available": true,
+        "letter": "S"
+      },
+      {
+        "id": "702233",
+        "text": "奉贤金汇",
+        "url": "r990-r702233",
+        "available": true,
+        "letter": "F"
+      },
+      {
+        "id": "702234",
+        "text": "青村",
+        "url": "r990-r702234",
+        "available": true,
+        "letter": "Q"
+      }
+    ],
+    "letter": "F"
+  },
+  {
+    "id": "991",
+    "text": "崇明",
+    "available": true,
+    "children": [
+      {
+        "id": "",
+        "text": "不限",
+        "url": "r991"
+      },
+      {
+        "id": "5299",
+        "text": "崇明",
+        "url": "r991-r5299",
+        "available": true,
+        "letter": "C"
+      },
+      {
+        "id": "702235",
+        "text": "堡镇",
+        "url": "r991-r702235",
+        "available": true,
+        "letter": "B"
+      },
+      {
+        "id": "702236",
+        "text": "崇明其它",
+        "url": "r991-r702236",
+        "available": true,
+        "letter": "C"
+      },
+      {
+        "id": "702237",
+        "text": "崇明新城",
+        "url": "r991-r702237",
+        "available": true,
+        "letter": "C"
+      },
+      {
+        "id": "702238",
+        "text": "横沙岛",
+        "url": "r991-r702238",
+        "available": false,
+        "letter": "H"
+      },
+      {
+        "id": "702239",
+        "text": "长兴岛",
+        "url": "r991-r702239",
+        "available": true,
+        "letter": "C"
+      },
+      {
+        "id": "702240",
+        "text": "陈家镇",
+        "url": "r991-r702240",
+        "available": true,
+        "letter": "C"
+      },
+      {
+        "id": "710021",
+        "text": "城桥",
+        "url": "r991-r710021",
+        "available": true,
+        "letter": "C"
+      }
+    ],
+    "letter": "C"
+  },
+  {
+    "id": "992",
+    "text": "金山",
+    "available": true,
+    "children": [
+      {
+        "id": "",
+        "text": "不限",
+        "url": "r992"
+      },
+      {
+        "id": "1110",
+        "text": "金山新城",
+        "url": "r992-r1110",
+        "available": true,
+        "letter": "J"
+      },
+      {
+        "id": "1112",
+        "text": "石化",
+        "url": "r992-r1112",
+        "available": true,
+        "letter": "S"
+      },
+      {
+        "id": "1113",
+        "text": "亭林",
+        "url": "r992-r1113",
+        "available": true,
+        "letter": "T"
+      },
+      {
+        "id": "1114",
+        "text": "朱泾",
+        "url": "r992-r1114",
+        "available": true,
+        "letter": "Z"
+      },
+      {
+        "id": "1951",
+        "text": "枫泾",
+        "url": "r992-r1951",
+        "available": true,
+        "letter": "F"
+      },
+      {
+        "id": "5020",
+        "text": "金山其他",
+        "url": "r992-r5020",
+        "available": true,
+        "letter": "J"
+      },
+      {
+        "id": "702241",
+        "text": "吕巷",
+        "url": "r992-r702241",
+        "available": true,
+        "letter": "L"
+      },
+      {
+        "id": "702242",
+        "text": "山阳",
+        "url": "r992-r702242",
+        "available": true,
+        "letter": "S"
+      },
+      {
+        "id": "702243",
+        "text": "廊下",
+        "url": "r992-r702243",
+        "available": false,
+        "letter": "L"
+      },
+      {
+        "id": "702244",
+        "text": "张堰",
+        "url": "r992-r702244",
+        "available": true,
+        "letter": "Z"
+      },
+      {
+        "id": "702245",
+        "text": "漕泾",
+        "url": "r992-r702245",
+        "available": false,
+        "letter": "C"
+      },
+      {
+        "id": "702246",
+        "text": "金山",
+        "url": "r992-r702246",
+        "available": false,
+        "letter": "J"
+      },
+      {
+        "id": "710019",
+        "text": "金山卫镇",
+        "url": "r992-r710019",
+        "available": false,
+        "letter": "J"
+      },
+      {
+        "id": "710020",
+        "text": "金山工业区",
+        "url": "r992-r710020",
+        "available": false,
+        "letter": "J"
+      }
+    ],
+    "letter": "J"
+  },
+  {
+    "id": "993",
+    "text": "松江",
+    "available": true,
+    "children": [
+      {
+        "id": "",
+        "text": "不限",
+        "url": "r993"
+      },
+      {
+        "id": "1116",
+        "text": "南九亭",
+        "url": "r993-r1116",
+        "available": true,
+        "letter": "J"
+      },
+      {
+        "id": "1117",
+        "text": "松江新城",
+        "url": "r993-r1117",
+        "available": true,
+        "letter": "S"
+      },
+      {
+        "id": "1118",
+        "text": "泗泾",
+        "url": "r993-r1118",
+        "available": true,
+        "letter": "S"
+      },
+      {
+        "id": "1119",
+        "text": "佘山",
+        "url": "r993-r1119",
+        "available": true,
+        "letter": "S"
+      },
+      {
+        "id": "1120",
+        "text": "松江老城",
+        "url": "r993-r1120",
+        "available": true,
+        "letter": "S"
+      },
+      {
+        "id": "1121",
+        "text": "新桥",
+        "url": "r993-r1121",
+        "available": true,
+        "letter": "X"
+      },
+      {
+        "id": "5046",
+        "text": "莘闵",
+        "url": "r993-r5046",
+        "available": true,
+        "letter": "S"
+      },
+      {
+        "id": "5048",
+        "text": "松江大学城",
+        "url": "r993-r5048",
+        "available": true,
+        "letter": "S"
+      },
+      {
+        "id": "12252",
+        "text": "松江其他",
+        "url": "r993-r12252",
+        "available": true,
+        "letter": "S"
+      },
+      {
+        "id": "12253",
+        "text": "小昆山",
+        "url": "r993-r12253",
+        "available": true,
+        "letter": "X"
+      },
+      {
+        "id": "12258",
+        "text": "北九亭",
+        "url": "r993-r12258",
+        "available": true,
+        "letter": "B"
+      },
+      {
+        "id": "20687",
+        "text": "叶榭",
+        "url": "r993-r20687",
+        "available": true,
+        "letter": "Y"
+      },
+      {
+        "id": "709965",
+        "text": "车墩",
+        "url": "r993-r709965",
+        "available": true,
+        "letter": "C"
+      },
+      {
+        "id": "709966",
+        "text": "洞泾",
+        "url": "r993-r709966",
+        "available": false,
+        "letter": "D"
+      },
+      {
+        "id": "709967",
+        "text": "泖港",
+        "url": "r993-r709967",
+        "available": true,
+        "letter": "M"
+      },
+      {
+        "id": "709968",
+        "text": "茸北",
+        "url": "r993-r709968",
+        "available": false,
+        "letter": "R"
+      },
+      {
+        "id": "709969",
+        "text": "松江工业区",
+        "url": "r993-r709969",
+        "available": false,
+        "letter": "S"
+      },
+      {
+        "id": "709970",
+        "text": "新浜",
+        "url": "r993-r709970",
+        "available": false,
+        "letter": "X"
+      },
+      {
+        "id": "709971",
+        "text": "岳阳",
+        "url": "r993-r709971",
+        "available": false,
+        "letter": "Y"
+      }
+    ],
+    "letter": "S"
+  },
+  {
+    "id": "994",
+    "text": "浦东",
+    "available": true,
+    "children": [
+      {
+        "id": "",
+        "text": "不限",
+        "url": "r994"
+      },
+      {
+        "id": "1122",
+        "text": "碧云",
+        "url": "r994-r1122",
+        "available": true,
+        "letter": "B"
+      },
+      {
+        "id": "1123",
+        "text": "曹路",
+        "url": "r994-r1123",
+        "available": true,
+        "letter": "C"
+      },
+      {
+        "id": "1124",
+        "text": "川沙",
+        "url": "r994-r1124",
+        "available": true,
+        "letter": "C"
+      },
+      {
+        "id": "1126",
+        "text": "高行",
+        "url": "r994-r1126",
+        "available": true,
+        "letter": "G"
+      },
+      {
+        "id": "1127",
+        "text": "航头",
+        "url": "r994-r1127",
+        "available": true,
+        "letter": "H"
+      },
+      {
+        "id": "1128",
+        "text": "惠南",
+        "url": "r994-r1128",
+        "available": true,
+        "letter": "H"
+      },
+      {
+        "id": "1130",
+        "text": "金桥",
+        "url": "r994-r1130",
+        "available": true,
+        "letter": "J"
+      },
+      {
+        "id": "1132",
+        "text": "联洋",
+        "url": "r994-r1132",
+        "available": true,
+        "letter": "L"
+      },
+      {
+        "id": "1134",
+        "text": "临港新城",
+        "url": "r994-r1134",
+        "available": true,
+        "letter": "L"
+      },
+      {
+        "id": "1136",
+        "text": "三林",
+        "url": "r994-r1136",
+        "available": true,
+        "letter": "S"
+      },
+      {
+        "id": "1137",
+        "text": "世纪公园",
+        "url": "r994-r1137",
+        "available": true,
+        "letter": "S"
+      },
+      {
+        "id": "1138",
+        "text": "塘桥",
+        "url": "r994-r1138",
+        "available": true,
+        "letter": "T"
+      },
+      {
+        "id": "1139",
+        "text": "唐镇",
+        "url": "r994-r1139",
+        "available": true,
+        "letter": "T"
+      },
+      {
+        "id": "1140",
+        "text": "新场",
+        "url": "r994-r1140",
+        "available": true,
+        "letter": "X"
+      },
+      {
+        "id": "1141",
+        "text": "源深",
+        "url": "r994-r1141",
+        "available": true,
+        "letter": "Y"
+      },
+      {
+        "id": "1143",
+        "text": "张江",
+        "url": "r994-r1143",
+        "available": true,
+        "letter": "Z"
+      },
+      {
+        "id": "1957",
+        "text": "北蔡",
+        "url": "r994-r1957",
+        "available": true,
+        "letter": "B"
+      },
+      {
+        "id": "1958",
+        "text": "祝桥",
+        "url": "r994-r1958",
+        "available": true,
+        "letter": "Z"
+      },
+      {
+        "id": "1959",
+        "text": "外高桥",
+        "url": "r994-r1959",
+        "available": true,
+        "letter": "W"
+      },
+      {
+        "id": "1973",
+        "text": "花木",
+        "url": "r994-r1973",
+        "available": true,
+        "letter": "H"
+      },
+      {
+        "id": "1976",
+        "text": "陆家嘴",
+        "url": "r994-r1976",
+        "available": true,
+        "letter": "L"
+      },
+      {
+        "id": "5034",
+        "text": "金杨",
+        "url": "r994-r5034",
+        "available": true,
+        "letter": "J"
+      },
+      {
+        "id": "5035",
+        "text": "康桥",
+        "url": "r994-r5035",
+        "available": true,
+        "letter": "K"
+      },
+      {
+        "id": "5036",
+        "text": "南码头",
+        "url": "r994-r5036",
+        "available": true,
+        "letter": "N"
+      },
+      {
+        "id": "5037",
+        "text": "世博滨江",
+        "url": "r994-r5037",
+        "available": true,
+        "letter": "S"
+      },
+      {
+        "id": "5038",
+        "text": "潍坊",
+        "url": "r994-r5038",
+        "available": true,
+        "letter": "W"
+      },
+      {
+        "id": "5039",
+        "text": "杨东",
+        "url": "r994-r5039",
+        "available": true,
+        "letter": "Y"
+      },
+      {
+        "id": "5040",
+        "text": "洋泾",
+        "url": "r994-r5040",
+        "available": true,
+        "letter": "Y"
+      },
+      {
+        "id": "5041",
+        "text": "周浦",
+        "url": "r994-r5041",
+        "available": true,
+        "letter": "Z"
+      },
+      {
+        "id": "12248",
+        "text": "上南",
+        "url": "r994-r12248",
+        "available": true,
+        "letter": "S"
+      },
+      {
+        "id": "12249",
+        "text": "御桥",
+        "url": "r994-r12249",
+        "available": true,
+        "letter": "Y"
+      },
+      {
+        "id": "12250",
+        "text": "梅园",
+        "url": "r994-r12250",
+        "available": true,
+        "letter": "M"
+      },
+      {
+        "id": "703892",
+        "text": "合庆",
+        "url": "r994-r703892",
+        "available": true,
+        "letter": "H"
+      },
+      {
+        "id": "709933",
+        "text": "八佰伴",
+        "url": "r994-r709933",
+        "available": false,
+        "letter": "B"
+      },
+      {
+        "id": "709934",
+        "text": "大团镇",
+        "url": "r994-r709934",
+        "available": false,
+        "letter": "D"
+      },
+      {
+        "id": "709935",
+        "text": "东明路",
+        "url": "r994-r709935",
+        "available": false,
+        "letter": "D"
+      },
+      {
+        "id": "709936",
+        "text": "高桥",
+        "url": "r994-r709936",
+        "available": true,
+        "letter": "G"
+      },
+      {
+        "id": "709937",
+        "text": "江镇",
+        "url": "r994-r709937",
+        "available": false,
+        "letter": "J"
+      },
+      {
+        "id": "709938",
+        "text": "老港镇",
+        "url": "r994-r709938",
+        "available": false,
+        "letter": "L"
+      },
+      {
+        "id": "709939",
+        "text": "芦潮港",
+        "url": "r994-r709939",
+        "available": false,
+        "letter": "L"
+      },
+      {
+        "id": "709940",
+        "text": "泥城",
+        "url": "r994-r709940",
+        "available": true,
+        "letter": "N"
+      },
+      {
+        "id": "709941",
+        "text": "南汇",
+        "url": "r994-r709941",
+        "available": false,
+        "letter": "N"
+      },
+      {
+        "id": "709942",
+        "text": "三灶镇",
+        "url": "r994-r709942",
+        "available": false,
+        "letter": "S"
+      },
+      {
+        "id": "709943",
+        "text": "书院镇",
+        "url": "r994-r709943",
+        "available": false,
+        "letter": "S"
+      },
+      {
+        "id": "709944",
+        "text": "王港",
+        "url": "r994-r709944",
+        "available": false,
+        "letter": "W"
+      },
+      {
+        "id": "709945",
+        "text": "万祥镇",
+        "url": "r994-r709945",
+        "available": true,
+        "letter": "W"
+      },
+      {
+        "id": "709946",
+        "text": "宣桥镇",
+        "url": "r994-r709946",
+        "available": false,
+        "letter": "X"
+      },
+      {
+        "id": "709947",
+        "text": "周家渡",
+        "url": "r994-r709947",
+        "available": false,
+        "letter": "Z"
+      },
+      {
+        "id": "709948",
+        "text": "竹园",
+        "url": "r994-r709948",
+        "available": false,
+        "letter": "Z"
+      }
+    ],
+    "letter": "P"
+  }
+]

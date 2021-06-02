@@ -1,0 +1,36 @@
+.v-btn--icon.default {
+  @apply tw-bg-primary tw-text-surface tw-rounded #{!important};
+}
+.v-btn{
+  @apply tw-shadow-none #{!important};
+}
+.v-navigation-drawer__border {
+  display: none;
+}
+.v-application .editor-content p:last-child {
+  margin: 0;
+}
+.v-btn__content {
+  font-size: 16px;
+  letter-spacing: 4px;
+}
+
+.v-size--small .v-btn__content {
+  font-size: 14px;
+}
+
+blockquote {
+  @apply tw-bg-gray-50 tw-border-l-4 tw-border-mod tw-my-4 tw-p-4 tw-italic tw-font-serif
+}
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
