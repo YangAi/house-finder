@@ -27,7 +27,12 @@ export default {
   },
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
-  plugins: ['~/plugins/plugins', '~/plugins/axios', '~/plugins/api'],
+  plugins: [
+    '~/plugins/plugins',
+    '~/plugins/axios',
+    '~/plugins/api',
+    { src: '~plugins/map.js', ssr: false },
+  ],
 
   // Auto import components: https://go.nuxtjs.dev/config-components
   components: [

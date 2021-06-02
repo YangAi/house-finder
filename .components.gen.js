@@ -28,12 +28,12 @@ import STabsGroup from '/Users/yangai/coding/super-house-finder/components/molec
 import SUnitErshouCard from '/Users/yangai/coding/super-house-finder/components/molecules/SUnitErshouCard.vue'
 import SUnitErshouCardTiny from '/Users/yangai/coding/super-house-finder/components/molecules/SUnitErshouCardTiny.vue'
 import SUnitZufangCard from '/Users/yangai/coding/super-house-finder/components/molecules/SUnitZufangCard.vue'
-import TheProjectDetaiHistory from '/Users/yangai/coding/super-house-finder/components/organisms/TheProjectDetaiHistory.vue'
 import TheProjectDetailErshou from '/Users/yangai/coding/super-house-finder/components/organisms/TheProjectDetailErshou.vue'
+import TheProjectDetailHistory from '/Users/yangai/coding/super-house-finder/components/organisms/TheProjectDetailHistory.vue'
+import TheProjectDetailMap from '/Users/yangai/coding/super-house-finder/components/organisms/TheProjectDetailMap.vue'
 import TheProjectDetailSummary from '/Users/yangai/coding/super-house-finder/components/organisms/TheProjectDetailSummary.vue'
 import TheProjectDetailSummaryInfoMatrix from '/Users/yangai/coding/super-house-finder/components/organisms/TheProjectDetailSummaryInfoMatrix.vue'
-import TheProjectDetaiMap from '/Users/yangai/coding/super-house-finder/components/organisms/TheProjectDetaiMap.vue'
-import TheProjectDetaiZufang from '/Users/yangai/coding/super-house-finder/components/organisms/TheProjectDetaiZufang.vue'
+import TheProjectDetailZufang from '/Users/yangai/coding/super-house-finder/components/organisms/TheProjectDetailZufang.vue'
 import TheProjectFilterMatrix from '/Users/yangai/coding/super-house-finder/components/organisms/TheProjectFilterMatrix.vue'
 import TheSchoolDetailErshou from '/Users/yangai/coding/super-house-finder/components/organisms/TheSchoolDetailErshou.vue'
 import TheSchoolDetailErshouHistory from '/Users/yangai/coding/super-house-finder/components/organisms/TheSchoolDetailErshouHistory.vue'
@@ -70,12 +70,12 @@ Vue.component('STabsGroup', STabsGroup)
 Vue.component('SUnitErshouCard', SUnitErshouCard)
 Vue.component('SUnitErshouCardTiny', SUnitErshouCardTiny)
 Vue.component('SUnitZufangCard', SUnitZufangCard)
-Vue.component('TheProjectDetaiHistory', TheProjectDetaiHistory)
 Vue.component('TheProjectDetailErshou', TheProjectDetailErshou)
+Vue.component('TheProjectDetailHistory', TheProjectDetailHistory)
+Vue.component('TheProjectDetailMap', TheProjectDetailMap)
 Vue.component('TheProjectDetailSummary', TheProjectDetailSummary)
 Vue.component('TheProjectDetailSummaryInfoMatrix', TheProjectDetailSummaryInfoMatrix)
-Vue.component('TheProjectDetaiMap', TheProjectDetaiMap)
-Vue.component('TheProjectDetaiZufang', TheProjectDetaiZufang)
+Vue.component('TheProjectDetailZufang', TheProjectDetailZufang)
 Vue.component('TheProjectFilterMatrix', TheProjectFilterMatrix)
 Vue.component('TheSchoolDetailErshou', TheSchoolDetailErshou)
 Vue.component('TheSchoolDetailErshouHistory', TheSchoolDetailErshouHistory)
