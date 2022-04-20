@@ -15,7 +15,7 @@
     "@nuxtjs/axios": "^5.12.5",
     "cheerio": "^1.0.0-rc.9",
     "cookie-universal-nuxt": "^2.1.4",
-    "core-js": "^3.8.3",
+    "core-js": "^3.22.1",
     "dotenv": "^9.0.2",
     "express": "^4.17.1",
     "lodash": "^4.17.21",
